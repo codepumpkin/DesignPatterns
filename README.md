@@ -16,7 +16,7 @@ Creational design patterns deal with the creation of object in the best possible
   1. Prototype Design Pattern
   1. Object Pool Design Pattern
 
-## 1. Structural Design Patterns:  
+## 2. Structural Design Patterns:  
 Structural design patterns  provide different ways to create class structure. Some of the structural design patterns are as follow:
 
   1. Bridge Design Pattern
