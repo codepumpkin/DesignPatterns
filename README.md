@@ -1,13 +1,11 @@
 # Learn Design Patterns in Java with CodePumpkin
 
-This repository is maintaing java code for all the design pattern articles written at **[codepumpkin.com](http://codepumpkin.com)**
+This repository is for maintaing java code for all the design pattern articles written at **[codepumpkin.com](http://codepumpkin.com)**
 
-Design Patterns is general repeatable solution to a commonly occurring problem in software design. Rather we should call it a solution template as it will provide the standard to implement the solution not the code directly.
-
-They are divided into three categories
+Design Patterns is general repeatable solution to a commonly occurring problem in software design. Design Patterns are divided into three main categories
 
 ## 1. Creational Design Patterns  
-Creational design patterns deal with the creation of object in the best possible way in the specific situation.​ Some of the creational design patterns are as follow:
+Creational design patterns deal with the creation of object in the best possible way in the specific situation. Some of the creational design patterns are as follow:
 
   1. Singleton Design Pattern
   1. Factory Design Pattern
@@ -16,7 +14,7 @@ Creational design patterns deal with the creation of object in the best possible
   1. Prototype Design Pattern
   1. Object Pool Design Pattern
 
-## 2. Structural Design Patterns:  
+## 2. Structural Design Patterns 
 Structural design patterns  provide different ways to create class structure. Some of the structural design patterns are as follow:
 
   1. Bridge Design Pattern
@@ -25,14 +23,32 @@ Structural design patterns  provide different ways to create class structure. So
   1. Composite Design Pattern
   1. Decorator Design Pattern
   1. Adapter Design Pattern
+  
+## 3. Behavioral Design Pattern 
+Behavioral design patterns provide solution for the bettern interaction between objects and how to provide loose couplings and flexibility to extend. Some of the behavioral design patterns are as follow:
+  1. Mediator Design Pattern
+  1. Iterator Design Pattern
+  1. Strategy Design Pattern
+  1. Command Design Pattern
+  1. Interpreter Design Pattern
+  1. Observer Design Pattern
 
-Behavioral Design Pattern: Behavioral design patterns provide solution for the bettern interaction between objects and how to provide loose couplings and flexibility to extend. Some of the behavioral design patterns are as follow:
-Mediator Design Pattern
-Iterator Design Pattern
-Strategy Design Pattern
-Command Design Pattern
-Interpreter Design Pattern
-Observer Design Pattern
+***
+
+Apart from above mentoined three main types, There are some design patterns that deals with multi-threaded programming paradigm. Those are known as Concurrency Design Patterns.  Some of the concurrency design patterns are as follow:
+
+1. Producer Consumer Design Pattern
+1. Leaders/followers pattern
+1. Read write lock pattern
+1. Balking pattern
+1. Scheduler pattern
+1. Thread pool pattern
+1. Barrier pattern
+1. Double-checked locking
+1. Guarded suspension pattern
+1. Reactor pattern
+
+***
 
 ## What is CodePumpkin?
 
@@ -40,14 +56,7 @@ Observer Design Pattern
 
 CodePumpkin is more like a Java Community where people can share their articles or interview experiences and become a CodePumpkin Contributor (**Pumpkin**, is what we call us). 
 
-## Follow us on 
-
-[![facebook](http://codepumpkin.com/wp-content/uploads/2018/01/facebook.png)](https://www.facebook.com/codepumpkin "facebook") [![twitter](http://codepumpkin.com/wp-content/uploads/2018/01/twitter.png)](https://twitter.com/codepumpkins) [![googlePlus](http://codepumpkin.com/wp-content/uploads/2018/01/googlePlus.png)](https://plus.google.com/u/2/+CodePumpkin) [![youTube](http://codepumpkin.com/wp-content/uploads/2018/01/if_youtube_313083.png)](https://www.youtube.com/channel/UCThoaEDuMskM7wX3xTXfD-Q) [![instagram](http://codepumpkin.com/wp-content/uploads/2018/01/instagram-1.png)](https://www.instagram.com/codepumpkin/) [![stumbleUpon](http://codepumpkin.com/wp-content/uploads/2018/01/stumbleUpon.png)](https://www.stumbleupon.com/stumbler/codepumpkin)
-
-## Our Mission
-
-Learn and Share! 
-Support Eco-Friendly Environment by Digital Learning.
+***
 
 ## Steps to contribute to the community and become a proud Pumpkin
 
@@ -69,3 +78,15 @@ Keep Sharing, Keep Learning..!! :)
 
 Regards,
 Team Code Pumpkin
+
+***
+
+## Our Mission
+
+Learn and Share! 
+Support Eco-Friendly Environment by Digital Learning.
+
+***
+## Follow us on 
+
+[![facebook](http://codepumpkin.com/wp-content/uploads/2018/01/facebook.png)](https://www.facebook.com/codepumpkin "facebook") [![twitter](http://codepumpkin.com/wp-content/uploads/2018/01/twitter.png)](https://twitter.com/codepumpkins) [![googlePlus](http://codepumpkin.com/wp-content/uploads/2018/01/googlePlus.png)](https://plus.google.com/u/2/+CodePumpkin) [![youTube](http://codepumpkin.com/wp-content/uploads/2018/01/if_youtube_313083.png)](https://www.youtube.com/channel/UCThoaEDuMskM7wX3xTXfD-Q) [![instagram](http://codepumpkin.com/wp-content/uploads/2018/01/instagram-1.png)](https://www.instagram.com/codepumpkin/) [![stumbleUpon](http://codepumpkin.com/wp-content/uploads/2018/01/stumbleUpon.png)](https://www.stumbleupon.com/stumbler/codepumpkin)
