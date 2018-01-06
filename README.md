@@ -6,6 +6,17 @@
 
 CodePumpkin is more like a Java Community where people can share their articles or interview experiences and become a CodePumpkin Contributor (**Pumpkin**, is what we call us). 
 
+## Follow us on 
+
+[![facebook](http://codepumpkin.com/wp-content/uploads/2018/01/facebook.png)](https://www.facebook.com/codepumpkin) [![twitter](http://codepumpkin.com/wp-content/uploads/2018/01/twitter.png)](https://twitter.com/codepumpkins) [![googlePlus](http://codepumpkin.com/wp-content/uploads/2018/01/googlePlus.png)](https://plus.google.com/u/2/+CodePumpkin)
+
+## Our Mission
+
+Learn and Share! 
+Support Eco-Friendly Environment by Digital Learning.
+
+## Steps to contribute to the community and become a proud Pumpkin
+
 In align with our goal of making learning happy, we started this contributor-ship on our blog. If you would also like to contribute your article or share interview experiences, you can create contributor account with CodePumpkin by clicking [here](http://codepumpkin.com/wp-login.php?action=register). Once you register with us, you can start immediately to contribute to the posts.
 
 The process will be as below:
