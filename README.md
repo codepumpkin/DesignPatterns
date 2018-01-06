@@ -16,13 +16,15 @@ Creational design patterns deal with the creation of object in the best possible
   1. Prototype Design Pattern
   1. Object Pool Design Pattern
 
-Structural Design Patterns:  Structural design patterns  provide different ways to create class structure. Some of the structural design patterns are as follow:
-Bridge Design Pattern
-Facade Design Pattern
-Proxy Design Pattern
-Composite Design Pattern
-Decorator Design Pattern
-​Adapter Design Pattern
+## 1. Structural Design Patterns:  
+Structural design patterns  provide different ways to create class structure. Some of the structural design patterns are as follow:
+
+  1. Bridge Design Pattern
+  1. Facade Design Pattern
+  1. Proxy Design Pattern
+  1. Composite Design Pattern
+  1. Decorator Design Pattern
+  1. Adapter Design Pattern
 
 Behavioral Design Pattern: Behavioral design patterns provide solution for the bettern interaction between objects and how to provide loose couplings and flexibility to extend. Some of the behavioral design patterns are as follow:
 Mediator Design Pattern
