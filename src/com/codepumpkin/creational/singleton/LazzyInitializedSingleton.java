@@ -16,7 +16,7 @@ public class LazzyInitializedSingleton {
  
     }
  
-    // Lazy initialization is done when client first time request for the
+    // Lazy initialization is done when client firt time request for the
     // instance
     public static LazzyInitializedSingleton getInstance() {
         if (instance == null) {
@@ -29,8 +29,8 @@ public class LazzyInitializedSingleton {
     
     public static void main(String s[])
     {
-    	StaticBlockSingleton s1 = StaticBlockSingleton.getInstance();
-    	StaticBlockSingleton s2 = StaticBlockSingleton.getInstance();
+    	LazzyInitializedSingleton s1 = LazzyInitializedSingleton.getInstance();
+    	LazzyInitializedSingleton s2 = LazzyInitializedSingleton.getInstance();
     	
     	if(s1==s2)
     	{
@@ -40,6 +40,6 @@ public class LazzyInitializedSingleton {
     	{
     		System.out.println("Not Singleton Object");
     	}
-    	
+    		
     }
 }
