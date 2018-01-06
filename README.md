@@ -1,5 +1,37 @@
 # Learn Design Patterns in Java with CodePumpkin
 
+This repository is maintaing java code for all the design pattern articles written at **[codepumpkin.com](http://codepumpkin.com)**
+
+Design Patterns is general repeatable solution to a commonly occurring problem in software design. Rather we should call it a solution template as it will provide the standard to implement the solution not the code directly.
+
+They are divided into three categories
+
+## 1. Creational Design Patterns  
+Creational design patterns deal with the creation of object in the best possible way in the specific situation.​ Some of the creational design patterns are as follow:
+
+  1. Singleton Design Pattern
+  1. Factory Design Pattern
+  1. Abstract Factory Design Pattern
+  1. Builder Design Pattern
+  1. Prototype Design Pattern
+  1. Object Pool Design Pattern
+
+Structural Design Patterns:  Structural design patterns  provide different ways to create class structure. Some of the structural design patterns are as follow:
+Bridge Design Pattern
+Facade Design Pattern
+Proxy Design Pattern
+Composite Design Pattern
+Decorator Design Pattern
+​Adapter Design Pattern
+
+Behavioral Design Pattern: Behavioral design patterns provide solution for the bettern interaction between objects and how to provide loose couplings and flexibility to extend. Some of the behavioral design patterns are as follow:
+Mediator Design Pattern
+Iterator Design Pattern
+Strategy Design Pattern
+Command Design Pattern
+Interpreter Design Pattern
+Observer Design Pattern
+
 ## What is CodePumpkin?
 
 **[CodePumpkin](http://codepumpkin.com)** is a blog that will help you to learn and refresh your knowledge on Core Java, Data Structures, algorithms and Design Patterns. 
