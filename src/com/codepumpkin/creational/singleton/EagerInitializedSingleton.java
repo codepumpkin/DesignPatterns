@@ -1,5 +1,10 @@
 package com.codepumpkin.creational.singleton;
 
+/**
+ * 
+ * @author http://codepumpkin.com
+ *
+ */
 public class EagerInitializedSingleton {
 	 
     // Private static instance is created at the time of class loading
