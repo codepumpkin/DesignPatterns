@@ -8,7 +8,7 @@ CodePumpkin is more like a Java Community where people can share their articles 
 
 ## Follow us on 
 
-[![facebook](http://codepumpkin.com/wp-content/uploads/2018/01/facebook.png)](https://www.facebook.com/codepumpkin){:target="_blank"} [![twitter](http://codepumpkin.com/wp-content/uploads/2018/01/twitter.png)](https://twitter.com/codepumpkins) [![googlePlus](http://codepumpkin.com/wp-content/uploads/2018/01/googlePlus.png)](https://plus.google.com/u/2/+CodePumpkin) [![youTube](http://codepumpkin.com/wp-content/uploads/2018/01/if_youtube_313083.png)](https://www.youtube.com/channel/UCThoaEDuMskM7wX3xTXfD-Q) [![instagram](http://codepumpkin.com/wp-content/uploads/2018/01/instagram-1.png)](https://www.instagram.com/codepumpkin/) [![stumbleUpon](http://codepumpkin.com/wp-content/uploads/2018/01/stumbleUpon.png)](https://www.stumbleupon.com/stumbler/codepumpkin)
+[![facebook](http://codepumpkin.com/wp-content/uploads/2018/01/facebook.png)](https://www.facebook.com/codepumpkin target="_blank") [![twitter](http://codepumpkin.com/wp-content/uploads/2018/01/twitter.png)](https://twitter.com/codepumpkins) [![googlePlus](http://codepumpkin.com/wp-content/uploads/2018/01/googlePlus.png)](https://plus.google.com/u/2/+CodePumpkin) [![youTube](http://codepumpkin.com/wp-content/uploads/2018/01/if_youtube_313083.png)](https://www.youtube.com/channel/UCThoaEDuMskM7wX3xTXfD-Q) [![instagram](http://codepumpkin.com/wp-content/uploads/2018/01/instagram-1.png)](https://www.instagram.com/codepumpkin/) [![stumbleUpon](http://codepumpkin.com/wp-content/uploads/2018/01/stumbleUpon.png)](https://www.stumbleupon.com/stumbler/codepumpkin)
 
 ## Our Mission
 
