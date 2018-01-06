@@ -2,7 +2,7 @@ package com.codepumpkin.creational.singleton;
 
 /**
  * 
- * @author http://codepumpkin.com
+ * @author codepumpkin.com
  *
  */
 public class EagerInitializedSingleton {
