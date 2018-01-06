@@ -33,7 +33,6 @@ Behavioral design patterns provide solution for the bettern interaction between 
   1. Interpreter Design Pattern
   1. Observer Design Pattern
 
-***
 
 Apart from above mentoined three main types, There are some design patterns that deals with multi-threaded programming paradigm. Those are known as Concurrency Design Patterns.  Some of the concurrency design patterns are as follow:
 
@@ -48,7 +47,7 @@ Apart from above mentoined three main types, There are some design patterns that
 1. Guarded suspension pattern
 1. Reactor pattern
 
-***
+
 
 ## What is CodePumpkin?
 
@@ -56,7 +55,7 @@ Apart from above mentoined three main types, There are some design patterns that
 
 CodePumpkin is more like a Java Community where people can share their articles or interview experiences and become a CodePumpkin Contributor (**Pumpkin**, is what we call us). 
 
-***
+
 
 ## Steps to contribute to the community and become a proud Pumpkin
 
@@ -79,14 +78,13 @@ Keep Sharing, Keep Learning..!! :)
 Regards,
 Team Code Pumpkin
 
-***
 
 ## Our Mission
 
 Learn and Share! 
 Support Eco-Friendly Environment by Digital Learning.
 
-***
+
 ## Follow us on 
 
 [![facebook](http://codepumpkin.com/wp-content/uploads/2018/01/facebook.png)](https://www.facebook.com/codepumpkin "facebook") [![twitter](http://codepumpkin.com/wp-content/uploads/2018/01/twitter.png)](https://twitter.com/codepumpkins) [![googlePlus](http://codepumpkin.com/wp-content/uploads/2018/01/googlePlus.png)](https://plus.google.com/u/2/+CodePumpkin) [![youTube](http://codepumpkin.com/wp-content/uploads/2018/01/if_youtube_313083.png)](https://www.youtube.com/channel/UCThoaEDuMskM7wX3xTXfD-Q) [![instagram](http://codepumpkin.com/wp-content/uploads/2018/01/instagram-1.png)](https://www.instagram.com/codepumpkin/) [![stumbleUpon](http://codepumpkin.com/wp-content/uploads/2018/01/stumbleUpon.png)](https://www.stumbleupon.com/stumbler/codepumpkin)
