@@ -1,4 +1,4 @@
-package com.codepumpkin.creational.singleton;
+package com.codepumpkin.creational.singleton.basic;
 
 
 /**
