@@ -3,6 +3,13 @@ package com.codepumpkin.creational.singleton;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
  
+/**
+ * You can read more about breaking Singleton Design Pattern using Reflection API at
+ * http://codepumpkin.com/breaking-singleton-using-reflection-and-enum-singleton/
+ * 
+ * @author codepumpkin.com
+ *
+ */
 public class ReflectionSingletonDemo {
  
     public static void main(String[] args) {
