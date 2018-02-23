@@ -1,8 +1,9 @@
-package com.codepumpkin.behavioral.mediator;
+package com.codepumpkin.behavioral;
 
 import java.util.ArrayList;
 
-public class ObserverDesignPatternDemo {
+public class ObserverDesignPatternDemo
+{
 
 	public static void main(String[] args) {
 		Celebrity amirkhan = new Celebrity("Amirkhan");
