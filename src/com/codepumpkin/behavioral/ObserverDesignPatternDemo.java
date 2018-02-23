@@ -2,39 +2,6 @@ package com.codepumpkin.behavioral;
 
 import java.util.ArrayList;
 
-public class ObserverDesignPatternDemo
-{
-
-	public static void main(String[] args) {
-		Celebrity amirkhan = new Celebrity("Amirkhan");
-		Celebrity selenaGomez = new Celebrity("Selena Gomez");
-
-		Follower amar = new Follower("Amar");
-		Follower juhi = new Follower("Juhi");
-		Follower urja = new Follower("Urja");
-		Follower malay = new Follower("Malay");
-		Follower ankit = new Follower("Ankit");
-		Follower harsh = new Follower("Harsh");
-
-		amirkhan.register(amar);
-		amirkhan.register(juhi);
-		amirkhan.register(urja);
-
-		selenaGomez.register(malay);
-		selenaGomez.register(ankit);
-		selenaGomez.register(harsh);
-
-		amirkhan.tweet("Hey guys, came across this interesting trailer, check it out.");
-		selenaGomez.tweet("Good Morning..!!");
-
-		amirkhan.unregister(juhi);
-
-		amirkhan.tweet("Teaser of Secret Superstar has been released..!!");
-
-	}
-
-}
-
 /**
  * This interface handles adding, deleting and updating all observers
  */
@@ -133,6 +100,38 @@ class Follower implements Observer {
 	@Override
 	public String toString() {
 		return followerName;
+	}
+
+}
+
+public class ObserverDesignPatternDemo {
+
+	public static void main(String[] args) {
+		Celebrity amirkhan = new Celebrity("Amirkhan");
+		Celebrity selenaGomez = new Celebrity("Selena Gomez");
+
+		Follower amar = new Follower("Amar");
+		Follower juhi = new Follower("Juhi");
+		Follower urja = new Follower("Urja");
+		Follower malay = new Follower("Malay");
+		Follower ankit = new Follower("Ankit");
+		Follower harsh = new Follower("Harsh");
+
+		amirkhan.register(amar);
+		amirkhan.register(juhi);
+		amirkhan.register(urja);
+
+		selenaGomez.register(malay);
+		selenaGomez.register(ankit);
+		selenaGomez.register(harsh);
+
+		amirkhan.tweet("Hey guys, came across this interesting trailer, check it out.");
+		selenaGomez.tweet("Good Morning..!!");
+
+		amirkhan.unregister(juhi);
+
+		amirkhan.tweet("Teaser of Secret Superstar has been released..!!");
+
 	}
 
 }
