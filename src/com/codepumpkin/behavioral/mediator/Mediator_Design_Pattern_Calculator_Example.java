@@ -2,6 +2,11 @@ package com.codepumpkin.behavioral.mediator;
 
 import java.util.HashSet;
 
+/**
+ * 
+ * @author CodePumpkin
+ *
+ */
 public class Mediator_Design_Pattern_Calculator_Example {
 
 	public static void main(String[] args) {
