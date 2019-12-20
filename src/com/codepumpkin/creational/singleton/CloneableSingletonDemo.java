@@ -10,7 +10,7 @@ package com.codepumpkin.creational.singleton;
 class CloneableParent implements Cloneable {
 	@Override
 	protected Object clone() throws CloneNotSupportedException {
-		return this.clone();
+		return super.clone();
 	}
 }
 
